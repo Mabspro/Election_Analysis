@@ -27,7 +27,7 @@ The analysis of the election show that:
   - Diana DeGette who received 73.8% of the vote and 272,892 of votes.
 
 ## Challenge Overview
-The challenge was fun. It allowed me to get a real world sense of data analysis based on real world data and got to see the power of analysis with Python.
+The project showed overall voter engagement in the collective counties in the region. And even though it did not itemize the party affiliation of the voters, the margin of victory at 50% (vote spread between the 1st and 2nd place) for the winner shows that voters were excited about them and thereby the sentiment of the moment. 
 
 ## Challenge Summary
-Overall the analysis proved to be a bit of a challenge but was able to exercise patience and dedication even in the face of time that seemed to get away from me a bit. I have learned alot about the application and utilization of Python to analyze real world data. 
+Going forward this scrypt can help the county in analyzing and getting a sense of voter sentiment, vote spread, county voter participation and an overall year to year snapshot of the vote count. This would allow for a more informed allocation of funds and perhaps understanding of the voters in the region. 
